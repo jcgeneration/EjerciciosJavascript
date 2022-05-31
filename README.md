@@ -1,4 +1,4 @@
-# EjerciciosJavascipt
+# Ejercicios de Javascript
 ## Ejercicios de práctica de Javascript
 
 
@@ -14,6 +14,7 @@ Dada una lista de números [-1, 3, 4, 2, 6], escribe una función en javascript 
 Escribir una función que permita saber si un número se repite dentro de un arreglo.
 
 *Casos de prueba*:
+
 Caso 1: Resultado esperado: El número 5 se encuentra más de una vez
 [1, 22, 5, 17, 10, 5, 40, 5]
 
