@@ -13,15 +13,16 @@ Dada una lista de números [-1, 3, 4, 2, 6], escribe una función en javascript 
 ## Ejercicio #3
 Escribir una función que permita saber si un número se repite dentro de un arreglo.
 
-*Casos de prueba*:
+> Blockquote
+**Casos de prueba**:
 
-Caso 1: Resultado esperado: El número 5 se encuentra más de una vez
+_Caso 1_: Resultado esperado: El número 5 se encuentra más de una vez
 [1, 22, 5, 17, 10, 5, 40, 5]
 
-Caso 2: Resultado esperado: El número 7 se encuentra más de una vez
+_Caso 2_: Resultado esperado: El número 7 se encuentra más de una vez
 [7, 41, 5, 7, 10, 13, 2]
 
-Caso 3: Resultado esperado: No hay números repetidos
+_Caso 3_: Resultado esperado: No hay números repetidos
 [1, 22, 5, 14, 24, 31, 27, 15, 105]
 
 ## Ejercicio #4
@@ -34,3 +35,4 @@ Referencias:
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
 https://www.w3schools.com/js/js_array_iteration.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
