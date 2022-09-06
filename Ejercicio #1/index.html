@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 1</title>
+</head>
+<body>
+    <h1>Ejercicio #1</h1>
+    <h2> una función que tome un arreglo de números y devuelva
+        el número mayor de la lista. Ejemplo del arreglo : [3, 5, 7, 1, 6]</h2>
+</body>
+</html>
+
+<script>
+
+
+    
+    function valorMayor(arr){
+        let max = 0;
+        for(let x = 1; x < arr.length; x++){
+            max = (arr[max] > arr[x])? max: x;
+        };
+        return(arr[max]);
+    };
+
+    console.log(valorMayor([3, 5, 7, 1, 6]));
+    document.write("<big>El resultado es: <big>" + valorMayor([5, 6, 7, 1, 6]))
+
+   
+</script>
