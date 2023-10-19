@@ -1,20 +1,22 @@
 # Ejercicios de Javascript
+
 ## Ejercicios de práctica de Javascript
 
-
 ## Ejercicio #1
+
 Escribir una función que tome un arreglo de números y devuelva el número mayor de la lista. (No se debe utilizar la función `Math.max`)
 Ejemplo del arreglo : [3, 5, 7, 1, 6]
 
 ## Ejercicio #2
+
 María llega a su entrevista de trabajo para el rol de Desarrollador Junior y se le pide que resuelva este problema:
 Dada una lista de números [-1, 3, 4, 2, 6], escribe una función en javascript para calcular el número más pequeño. (No se debe utilizar la función `Math.min`)
 
 ## Ejercicio #3
+
 Escribir una función que permita saber si un número se repite dentro de un arreglo.
 
-> Blockquote
-**Casos de prueba**:
+> **Casos de prueba**:
 
 _Caso 1_: Resultado esperado: El número 5 se encuentra más de una vez
 [1, 22, 5, 17, 10, 5, 40, 5]
@@ -26,12 +28,13 @@ _Caso 3_: Resultado esperado: No hay números repetidos
 [1, 22, 5, 14, 24, 31, 27, 15, 105]
 
 ## Ejercicio #4
+
 Escribir una función que tome un arreglo ordenado y devuelva un arreglo completamente desordenado
 Entrada: [1, 2, 5, 14, 24, 31, 50, 105]
 Posible salida: [105, 31, 14, 1, 2, 50, 24, 5]
 
-
 # Ejercicios de Algoritmos implementados en Javascript
+
 Implementación de los ejercicios de algoritmos con Javascript
 
 ## Realizar las siguientes funciones:
@@ -45,8 +48,8 @@ Implementación de los ejercicios de algoritmos con Javascript
 
 ---
 
-
 Referencias:
+
 1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 2. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
 3. https://www.w3schools.com/js/js_array_iteration.asp
